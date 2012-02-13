@@ -1,0 +1,12 @@
+# SGBroadcast configuration file.
+config:
+  # The Message shown in front of your broadcasts
+  title: '&8[&aBroadcast&8]'
+  # Time (in seconds) between each broadcast
+  interval: 60
+  # Should this plugin automatically start running on server startup?
+  run-on-startup: true
+messages:
+- 'Default Broadcast Message'
+- '&cPlease change these messages!'
+- '&dAll colors work! Dont forget quotes!'

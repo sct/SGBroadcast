@@ -1,0 +1,9 @@
+name: SGBroadcast
+main: com.sgcraft.SGBroadcast.SGBroadcast
+version: 1.0
+description: >
+             Broadcast plugin.
+commands:
+    sgbc:
+        description: This command wil start or stop the automatic broadcasts.
+        usage: /<command> [start/stop/reload]
